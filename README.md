@@ -1,3 +1,1 @@
-"# freelance-work" 
-"# freelance-work" 
-"# freelance-work" 
+As a frontend developer in the freelance realm, I successfully created a Vanilla JS and two React apps for my  clients. One React app, skillfully designed without a backend, utilized mockapi.io to simulate data interactions. The other, a more intricate project, integrated Node.js with MongoDB, providing seamless data management and real-time capabilities. 
